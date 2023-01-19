@@ -35,3 +35,11 @@
 # 4) git remote add origin <url> # для создания связи (1 раз)
 
 # 5) git push origin main # отправка всех версий на удаленный репозитории
+
+
+"JOhn Snow"
+
+Adilet = 100
+
+
+adi = 'sdlfj'
