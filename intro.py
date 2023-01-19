@@ -36,4 +36,10 @@
 
 # 5) git push origin main # отправка всех версий на удаленный репозитории
 
+
 "JOhn Snow"
+
+Adilet = 100
+
+
+
