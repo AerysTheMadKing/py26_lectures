@@ -7,6 +7,9 @@
 # # Репозиторий (локальный/удаленный) - хранилище вашего кода и истории его изменений.
 
 
+# Git — что это простыми словами Git — это система, которая позволяет сразу нескольким разработчикам сохранять и отслеживать изменения в файлах вашего проекта. Git относится к третьему поколению систем контроля версий (СКВ).
+
+
 "GitHub"
 
 # GitHub - веб сайт для размешения git-репозиториев в совместной разработке.
@@ -37,9 +40,46 @@
 # 5) git push origin main # отправка всех версий на удаленный репозитории
 
 
-"JOhn Snow"
+# def longest_words(filename: str):
+#     
 
-Adilet = 100
+#         list_ = file.readlines()
+        
+#         list1 = []
+#         for x in list_:
+#             y = x.replace("/n", "")
+#             t = y.split()
+#             list1.extend(t)
+        
+#         max_len = []
+#         for x in list1:
+#             if len(x) == len(max(list1)):
+#                 max_len.append(x)
+
+#             else:
+#                 pass
+
+#             if len(max_len)==1:
+#                 print(max_len[0])
+
+#             else:
+#                 print(max_len)
+
+# longest_words("333.txt")
 
 
-adi = 'sdlfj'
+
+
+
+
+
+
+
+
+
+
+
+    
+
+        
+

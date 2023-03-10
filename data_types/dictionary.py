@@ -104,7 +104,7 @@
 "-----------------------------------------------"
 "FROM KEYS"
 
-# fromkeys - бысртое создание словаря из ключей
+# fromkeys - быстрое создание словаря из ключей
 
 # keys = ["one", "two", "three"]
 
@@ -257,5 +257,17 @@
 
 
 
-print(dir(dict))
+# print(dir(dict))
+
+def func17(list_):
+
+employees = [
+  {'name': 'Jack', 'salary': 10000, 'overTime': 4},
+  {'name': 'Tom', 'salary': 15000, 'overTime': 3},
+  {'name': 'Jessica', 'salary': 20000, 'overTime': 9},
+  {'name': 'Helen', 'salary': 25000, 'overTime': 2},
+  {'name': 'Peter', 'salary': 30000, 'overTime': 7}
+]
+
+for x in employees:
 
